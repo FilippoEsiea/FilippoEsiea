@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filippo.
 - 👀 I’m interested in Market Finance, Trading, Data Science & Artificial Intelligence.
-- 🌱 I just graduated in Data Science & AI from a French engineering school and I'm currently poursuing a Master's degree in Finance.
+- 🌱 I just graduated from a MEng in Data Science & AI and I'm currently poursuing a Msc in Finance.
 - 💞️ I’m looking to share my academic and personal projects about the topics listed above.
 - 📫 How to reach me : filippo.perolo@skema.edu
